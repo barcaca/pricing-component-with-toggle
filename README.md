@@ -24,8 +24,8 @@ Este projeto é uma solução para o [Pricing Component Challenge with Toggle no
 
 ## 🔗 Links
 
-- [Link da Solução](https://your-solution-url.com)
-- [Link do Site Ao Vivo](https://your-live-site-url.com)
+- Solution URL: [Pricing Component with Toggle/Frontier Mentor](https://your-solution-url.com)
+- Live Site URL: [Vercel App](https://pricing-component-with-toggle-pearl.vercel.app)
 
 ## 🚀 Processo
 
