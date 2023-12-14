@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+  background:
+    url("../../public/bg-top.svg") top right -50% no-repeat,
+    url("../../public/bg-bottom.svg") bottom left no-repeat;
+  background-size: auto;
+  @media (min-width: 768px) {
+    background:
+      url("../../public/bg-top.svg") top right -5% no-repeat,
+      url("../../public/bg-bottom.svg") bottom left no-repeat;
+  }
+}
