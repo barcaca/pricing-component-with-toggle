@@ -24,7 +24,7 @@ Este projeto é uma solução para o [Pricing Component Challenge with Toggle no
 
 ## 🔗 Links
 
-- Solution URL: [Pricing Component with Toggle/Frontier Mentor](https://your-solution-url.com)
+- Solution URL: [Pricing Component with Toggle/Frontier Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-togglenextjs-tailwinds-S_heyr5PPH)
 - Live Site URL: [Vercel App](https://pricing-component-with-toggle-pearl.vercel.app)
 
 ## 🚀 Processo
